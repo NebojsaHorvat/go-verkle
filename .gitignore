@@ -2,3 +2,4 @@ precomp
 *.png
 *.prof
 *.cov
+.idea
